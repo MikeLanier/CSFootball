@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AD7EE9B3-2F59-475C-9CCE-A1DED8E8FA9D}</ProjectGuid>
+    <ProjectGuid>{64CD31AB-74AB-4D97-955F-7FD05FBEA749}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CSFootball</RootNamespace>
